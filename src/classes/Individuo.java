@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author 13636978705
+ * @author rafatrigo
  */
 public class Individuo {
     private Individuo pai;
